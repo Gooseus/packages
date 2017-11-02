@@ -7529,5 +7529,16 @@
     "description": "Conversion between integers and Roman numerals",
     "license": "MIT",
     "web": "https://github.com/lcrees/romans"
+  },
+  {
+    "name": "nimaws",
+    "url": "https://github.com/Gooseus/nimaws",
+    "method": "git",
+    "tags": [
+      "aws"
+    ],
+    "description": "Simple modules for working with AWS",
+    "license": "MIT",
+    "web": "https://github.com/Gooseus/nimaws"
   }
 ]
